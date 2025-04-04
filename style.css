@@ -1,0 +1,15 @@
+.chart-container {
+    width: 100%; /* Grafikaning kengligi */
+    /* max-width: 800px;  */
+    height: 1200px; /* Balandlikni belgilash */
+    margin: auto; /* Markazga joylash */
+    position: relative;
+    display: flex;
+
+}
+
+canvas {
+   width: 50%; /* Grafikaning kengligi */
+    /* max-width: 800px;  */
+    height: 400px; /* Balandlikni belgilash */
+}
